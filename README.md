@@ -1,2 +1,2 @@
 # sebentransicio
-Web de SEB en Transició SCCP
+Web de SEB en Transició SCCL
