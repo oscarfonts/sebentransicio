@@ -22,8 +22,8 @@ title: SEB en Transició
 email: sebentransicio@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   La coop. energètica de Santa Eugènia de Berga
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sebentransicio.cat" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/sebentransicio" # the subpath of your site, e.g. /blog
+url: "https://fonts.cat" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
