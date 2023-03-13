@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Avís legal
+title: Avís legal i política de privacitat
 short-title: Avís legal
 permalink: /avis-legal/
 ---
 
-Pàgina amb l'avís legal
+TODO: Pàgina amb l'avís legal

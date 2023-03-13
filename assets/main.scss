@@ -3,6 +3,11 @@
 ---
 
 @import "minima";
+
 p {
   text-align: justify;
+}
+
+.site-header {
+  border-top: 5px solid $brand-color;
 }

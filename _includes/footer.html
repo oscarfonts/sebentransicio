@@ -16,7 +16,9 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li>
+              <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+            </li>
             {%- endif -%}
         </ul>
       </div>
@@ -26,8 +28,14 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-        <p><a href="/avis-legal/">Avís legal</a></p>
+        <ul class="contact-list">
+          <li class="p-name">
+          {{- site.description | escape -}}
+          </li>
+          <li>
+            <a href="{{ "/avis-legal" | relative_url }}">Avís legal i política de privacitat</a>
+          </li>
+        </ul>
       </div>
     </div>
 
