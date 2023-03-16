@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Qui som?
-short-title: Qui som?
+title: SEB En Transició
+short-title: SEB En Transició
 permalink: /index.html
 ---
 
-SEB en Transició som una Cooperativa sense ànim de lucre que vol promoure i impulsar el canvi de model energètic
+SEB En Transició som una Cooperativa sense ànim de lucre que vol promoure i impulsar el canvi de model energètic
 en el nostre municipi. Començarem per crear una Comunitat Energètica que permeti compartir instal·lacions
 fotovoltaiques entre els veïns del poble.
 
@@ -27,10 +27,7 @@ mediambientalment i que contribueixi a la transició energètica. Les persones s
 vegada, productores i consumidores d’energia. L’autoproducció col·lectiva està prevista en
 el Reial Decret 244/2019.
 
-A Osona, hi ha 14 comunitats energètiques en funcionament a:
-Alpens,
-[Balenyà](https://www.balenyasostenible.cat/), Folgueroles, Gurb, [Olost](https://olostisantacreusostenible.cat), Prats de Lluçanès, [Santa Eulàlia de Riuprimer](https://llumprimer.cat), [Sant Julià de Vilatorta](https://setfontsenergia.cat), [Sant Pere de
-Torelló](https://santpereentransicio.cat/), Sant Vicenç de Torelló, [Taradell](https://www.tarsos.cat/), Tavèrnoles, [Tona](https://latonenca.cat) i Torelló.
+A Osona, hi ha [més de 20 comunitats energètiques](https://novaenergiaosona.cat/comunitats/) en funcionament:
 
 ![Mapa de cooperatives energètiques a Osona](img/mapaCooperativesOsona.png)
 

@@ -6,8 +6,7 @@ permalink: /projectes/
 ---
 
 Actualment ens trobem en una fase d'estudi de tres possibles localitacions
-que donarien cobertura a tot el nucli urbà en un radi de 500 metres, i a
-pràcticament tot el terme municipal en un radi de 2 quilòmetres.
+que donarien cobertura pràcticament tot el terme municipal en un radi de 2 quilòmetres.
 
 N'hem fet una memòria valorada de cadascuna per tal de calcular el seu
 potencial i viabilitat, dels que us presentem les quatre dade bàsiques:
