@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "ca" }}">
+  {%- include head.html -%}
+  <body>
+
+    {%- include header.html -%}
+    <header class="home-header wrapper">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+      <p>SEB En Transició SCCL som una Cooperativa sense ànim de lucre que vol promoure i impulsar el canvi de model energètic
+a Santa Eugènia de Berga. Començarem per crear comunitats energètiques que permetin compartir instal·lacions
+fotovoltaiques entre els veïns del poble.</p>
+    </header>
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+          <div class="post-content">
+            {{ content }}
+          </div>
+
+        </article>
+
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
