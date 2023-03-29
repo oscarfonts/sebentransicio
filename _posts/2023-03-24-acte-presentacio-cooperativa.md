@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Èxit de públic en la presentació de la cooperativa
+title:  Èxit de públic en l'acte de presentació de la cooperativa
 date:   2023-03-24 21:00:00 +0100
 categories: xerrada
 ---
