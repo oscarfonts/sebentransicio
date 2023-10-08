@@ -1,4 +1,4 @@
-# Web de SEB en Transició
+# Antiga Web de SEB en Transició (ara gestionada amb wordpress)
 
 Feta amb Jekyll, vegeu https://jekyllrb.com/
 
